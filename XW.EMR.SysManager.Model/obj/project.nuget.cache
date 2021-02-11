@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cjN7yEy4y/ZqQavVyrNegKR7SO+PaiHXaWJqemwCv8rEoS2X+c4DUZ3W9KdB69gFoCieXmlsTXhrHC0IaclaNw==",
+  "success": true,
+  "projectFilePath": "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager.Model\\XW.EMR.SysManager.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\small\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\small\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

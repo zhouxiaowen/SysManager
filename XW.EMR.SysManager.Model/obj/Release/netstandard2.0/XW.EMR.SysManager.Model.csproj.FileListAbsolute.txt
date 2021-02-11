@@ -1,0 +1,9 @@
+D:\101 Code\CORE\EMR\XW.EMR.SysManager\XW.EMR.SysManager.Model\bin\Release\netstandard2.0\XW.EMR.SysManager.Model.deps.json
+D:\101 Code\CORE\EMR\XW.EMR.SysManager\XW.EMR.SysManager.Model\bin\Release\netstandard2.0\XW.EMR.SysManager.Model.dll
+D:\101 Code\CORE\EMR\XW.EMR.SysManager\XW.EMR.SysManager.Model\bin\Release\netstandard2.0\XW.EMR.SysManager.Model.pdb
+D:\101 Code\CORE\EMR\XW.EMR.SysManager\XW.EMR.SysManager.Model\obj\Release\netstandard2.0\XW.EMR.SysManager.Model.csprojAssemblyReference.cache
+D:\101 Code\CORE\EMR\XW.EMR.SysManager\XW.EMR.SysManager.Model\obj\Release\netstandard2.0\XW.EMR.SysManager.Model.AssemblyInfoInputs.cache
+D:\101 Code\CORE\EMR\XW.EMR.SysManager\XW.EMR.SysManager.Model\obj\Release\netstandard2.0\XW.EMR.SysManager.Model.AssemblyInfo.cs
+D:\101 Code\CORE\EMR\XW.EMR.SysManager\XW.EMR.SysManager.Model\obj\Release\netstandard2.0\XW.EMR.SysManager.Model.csproj.CoreCompileInputs.cache
+D:\101 Code\CORE\EMR\XW.EMR.SysManager\XW.EMR.SysManager.Model\obj\Release\netstandard2.0\XW.EMR.SysManager.Model.dll
+D:\101 Code\CORE\EMR\XW.EMR.SysManager\XW.EMR.SysManager.Model\obj\Release\netstandard2.0\XW.EMR.SysManager.Model.pdb
