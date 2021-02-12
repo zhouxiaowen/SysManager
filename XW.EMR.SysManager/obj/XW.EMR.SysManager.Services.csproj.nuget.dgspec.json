@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager\\XW.EMR.SysManager.Services.csproj": {}
+    "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager\\XW.EMR.SysManager\\XW.EMR.SysManager.Services.csproj": {}
   },
   "projects": {
-    "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager.Model\\XW.EMR.SysManager.Model.csproj": {
+    "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager\\XW.EMR.SysManager.Model\\XW.EMR.SysManager.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager.Model\\XW.EMR.SysManager.Model.csproj",
+        "projectUniqueName": "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager\\XW.EMR.SysManager.Model\\XW.EMR.SysManager.Model.csproj",
         "projectName": "XW.EMR.SysManager.Model",
-        "projectPath": "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager.Model\\XW.EMR.SysManager.Model.csproj",
+        "projectPath": "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager\\XW.EMR.SysManager.Model\\XW.EMR.SysManager.Model.csproj",
         "packagesPath": "C:\\Users\\small\\.nuget\\packages\\",
-        "outputPath": "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager.Model\\obj\\",
+        "outputPath": "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager\\XW.EMR.SysManager.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager\\XW.EMR.SysManager.Services.csproj": {
+    "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager\\XW.EMR.SysManager\\XW.EMR.SysManager.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager\\XW.EMR.SysManager.Services.csproj",
+        "projectUniqueName": "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager\\XW.EMR.SysManager\\XW.EMR.SysManager.Services.csproj",
         "projectName": "XW.EMR.SysManager.Services",
-        "projectPath": "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager\\XW.EMR.SysManager.Services.csproj",
+        "projectPath": "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager\\XW.EMR.SysManager\\XW.EMR.SysManager.Services.csproj",
         "packagesPath": "C:\\Users\\small\\.nuget\\packages\\",
-        "outputPath": "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager\\obj\\",
+        "outputPath": "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager\\XW.EMR.SysManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -88,8 +88,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager.Model\\XW.EMR.SysManager.Model.csproj": {
-                "projectPath": "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager.Model\\XW.EMR.SysManager.Model.csproj"
+              "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager\\XW.EMR.SysManager.Model\\XW.EMR.SysManager.Model.csproj": {
+                "projectPath": "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager\\XW.EMR.SysManager.Model\\XW.EMR.SysManager.Model.csproj"
               }
             }
           }

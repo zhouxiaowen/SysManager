@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager.Model\\XW.EMR.SysManager.Model.csproj",
+      "projectUniqueName": "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager\\XW.EMR.SysManager.Model\\XW.EMR.SysManager.Model.csproj",
       "projectName": "XW.EMR.SysManager.Model",
-      "projectPath": "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager.Model\\XW.EMR.SysManager.Model.csproj",
+      "projectPath": "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager\\XW.EMR.SysManager.Model\\XW.EMR.SysManager.Model.csproj",
       "packagesPath": "C:\\Users\\small\\.nuget\\packages\\",
-      "outputPath": "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager.Model\\obj\\",
+      "outputPath": "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager\\XW.EMR.SysManager.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

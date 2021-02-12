@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "swE9RgANX/F8n0dav63OVljWeLTY6GWxp1G+a6O+PV3x5GpKNMPmUpyeA+/TdwjxRbA4iwcSBDU53BVHM2D9DQ==",
+  "dgSpecHash": "LHgVcVe6FHbzInXXrB+BVrThUb4S/xfcXBhyJBdpYCarEON9ewz9eFr84vMtbfgqHsKgj4q1ZdpmNZpXWqyCSg==",
   "success": true,
-  "projectFilePath": "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager\\XW.EMR.SysManager.Services.csproj",
+  "projectFilePath": "D:\\101 Code\\CORE\\EMR\\XW.EMR.SysManager\\XW.EMR.SysManager\\XW.EMR.SysManager.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\small\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\small\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
