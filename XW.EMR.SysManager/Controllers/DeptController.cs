@@ -28,7 +28,7 @@ namespace XW.EMR.SysManager.Controllers
                 DeptCode = "0002",
                 DeptName = "全科"
             });
-
+             
             return deptList;
         }
     }
